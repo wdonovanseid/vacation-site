@@ -15,7 +15,7 @@ This is a practice exercise using Bootstrap to make a Vacation website.
 
 ## Known Bugs
 
-
+No bugs found.
 
 ## Support and contact details
 
@@ -25,6 +25,7 @@ If there are any questions and concerns, feel free to contact us at wdstwo@live.
 
 HTML
 Bootstrap
+CSS
 
 ### License
 
