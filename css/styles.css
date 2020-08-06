@@ -1,0 +1,17 @@
+.row{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.card{
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/51wIeipn4RL._SX355_.jpg");
+}
+body {
+  background-color: black;
+  font-family: Times;
+  color: red;
+  font-weight: 900;
+}
